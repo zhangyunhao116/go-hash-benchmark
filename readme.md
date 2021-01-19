@@ -22,6 +22,14 @@ $ go test -bench=All/rand[1234]
 
 ### Result
 
+Go version: go1.15.6 linux/amd64
+
+CPU: AMD 3700x(8C16T), running at 3.6GHz
+
+OS: ubuntu 18.04
+
+MEMORY: 16G x 2 (3200MHz)
+
 rand1 and rand2 is faster than others
 
 ```
